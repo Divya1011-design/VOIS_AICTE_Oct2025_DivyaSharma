@@ -7,26 +7,35 @@ This project, built during my internship at VOIS (Vodafone Intelligent Solutions
 📂 Dataset
 
 Source: Airbnb_Open_Data.csv(Kaggle)
+
 Key features: price, room type, location, host info, reviews, availability
 
 🛠️ Tools
 
 Python (Pandas, NumPy)
+
 Visualization (Matplotlib, Seaborn, Plotly)
+
 Optional ML: Random Forest, LightGBM
 
 📊 Key Insights
 
 💰 Prices depend strongly on room type and location
+
 🏠 Entire homes/apartments dominate listings
+
 👨‍💼 Professional hosts manage multiple properties
+
 ⭐ Reviews influence listing popularity
+
 🗓️ Availability shows seasonal patterns
 
 🚀 Future Scope
 
 Conversational analytics agent using LLMs
+
 Interactive dashboards for business intelligence
+
 Deeper geospatial & time-series analysis
 
 ✅ Conclusion
